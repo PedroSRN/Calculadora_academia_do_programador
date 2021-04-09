@@ -1,0 +1,26 @@
+C:\Users\pedra\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\pedra\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\pedra\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\pedra\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\pedra\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\pedra\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\pedra\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\pedra\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\pedra\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\pedra\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pedra\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\pedra\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\pedra\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\pedra\Documents\Academia do programador\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\pedra\Documents\Academia do programador\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\pedra\Documents\Academia do programador\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\pedra\Documents\Academia do programador\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\pedra\Documents\Academia do programador\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\pedra\Documents\Academia do programador\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\pedra\Documents\Academia do programador\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\pedra\Documents\Academia do programador\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\pedra\Documents\Academia do programador\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\pedra\Documents\Academia do programador\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pedra\Documents\Academia do programador\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\pedra\Documents\Academia do programador\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\pedra\Documents\Academia do programador\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
